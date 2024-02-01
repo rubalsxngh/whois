@@ -12,12 +12,7 @@ This script gathers data solely from publicly available sources, ensuring that i
 
    ```bash
    git clone https://github.com/your-username/whois.git
-   cd algorithms
-
-- Navigate to project folder:
-
-  ```bash
-  cd python 
+   cd whois
 
 - Run the script.
 
