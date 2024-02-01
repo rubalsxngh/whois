@@ -1,5 +1,4 @@
 # whois
-<<<<<<< HEAD
 
 Wanna gather info about domain name? No problem. This script allows users to query WHOIS information for a given domain name, Refer [RFC 3912](https://www.ietf.org/rfc/rfc3912.txt)
 
@@ -49,6 +48,3 @@ Contributions to this repository are highly welcome! If you can suggest improvem
   git push origin feature-name
 
 - Open a pull request on the main repository.
-=======
-A python script to query WHOIS information for a given domain name.
->>>>>>> 9150fb7ca951a03d19d108d949a0d8b0911fb1b0
